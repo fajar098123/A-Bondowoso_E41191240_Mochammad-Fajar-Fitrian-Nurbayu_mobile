@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Date">
+        <item>Sunday, April 12 2021</item>
+        <item>Monday,April 05,2021</item>
+        <item>Tuesday,April 06,2021</item>
+        <item>Wednesday,April 07,2021</item>
+        <item>Thursday,April 08,2021</item>
+        <item>Friday,April 09,2021</item>
+        <item>Saturday,April 10,2021</item>
+    </string-array>
+    <string-array name="Time">
+        <item>10:00am</item>
+        <item>11:00am</item>
+        <item>12:00pm</item>
+        <item>13:00pm</item>
+    </string-array>
+</resources>
