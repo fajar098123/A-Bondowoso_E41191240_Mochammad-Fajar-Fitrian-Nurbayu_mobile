@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lv_sensors" type="id" />
+    <item name="img_list_all_sensor" type="id" />
+    <item name="img_light_sensor" type="id" />
+    <item name="img_proximity_sensor" type="id" />
+</resources>
